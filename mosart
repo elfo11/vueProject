@@ -49,3 +49,13 @@
     </div>
   </div>
 </template>
+
+<script>
+export default {};
+</script>
+
+<style>
+#pannellinoMosart {
+  border: 1px solid black;
+}
+</style>
